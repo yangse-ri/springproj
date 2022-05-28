@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML>
+
+<decorators defaultdir="/WEB-INF/views/decorator">
+	<decorator name="main" page="default_decorator.jsp">
+	<pattern>/main/*</pattern>
+	<pattern>/board/*</pattern>
+	<pattern>/notice/*</pattern>
+	<pattern>/image/*</pattern>
+	<pattern>/qna/*</pattern>
+	<pattern>/message/*</pattern>
+	<pattern>/member/*</pattern>
+	<pattern>/grade/*</pattern>
+	</decorator>
+</decorators>
