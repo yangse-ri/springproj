@@ -1,4 +1,4 @@
-spring, jsp 개인프로젝트 
+spring, jsp/ oracle ( 개인프로젝트 )
 
 
 
