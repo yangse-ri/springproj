@@ -1,4 +1,4 @@
-spring, jsp로 구현한 개인프로젝트 
+spring, jsp 개인프로젝트 
 
 
 
